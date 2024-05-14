@@ -70,10 +70,10 @@ $('#submit').on('click',function(event) {
   $('#message').blur(function () {
     inputCheck();
   });
-  $('#agree').click(function () {
+  $('#prefecture').blur(function () {
     inputCheck();
   });
-  $('#prefecture').click(function () {
+  $('#agree').click(function () {
     inputCheck();
   });
 
